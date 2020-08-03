@@ -6,9 +6,10 @@ here is the link:  https://drive.google.com/file/d/10zlc5Rgxft4fof1C5NLBLxzA5r9u
 download the snake.exe from above link <br />
 
 to run snake.py  you should install pygame by:<br />
-                           pip install pygame<br />
+1.open command prompt or terminal<br />
+2.pip install pygame<br />
 usage:<br />
-            #just run snake.py or snake.exe <br />
+#just run snake.py or snake.exe <br />
             
 note: Report any bug<br />
-*****************************thank you**********************<br />
+********thank you*********<br />
