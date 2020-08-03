@@ -1,9 +1,9 @@
 # snake-in-python
 low graphics snake game
 It is bulid with python\
-i have attached a .exe file to run on every windows computer\
+i have attached a snake.exe file to run on every windows computer without python (you can also create your own exe file by using pyinstaller\
 here is the link:  https://drive.google.com/file/d/10zlc5Rgxft4fof1C5NLBLxzA5r9ubQ0P/view?usp=sharing<br />
-download the .exe from above link <br />
+download the snake.exe from above link <br />
 
 to run snake.py  you should install pygame by:<br />
                            pip install pygame<br />
