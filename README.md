@@ -11,4 +11,4 @@ usage:<br />
             #just run snake.py or snake.exe <br />
             
 note: Report any bug<br />
-*****************************thank you**********************
+*****************************thank you**********************<br />
